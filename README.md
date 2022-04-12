@@ -1,25 +1,13 @@
-- 👋 Hi, I’m @rqamo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+0101010101010101101010010101010101
+0101010101010101010010101010101
+1010101010010101011111010101011
+0101010101111111101011001110101
+100110101010101010100101011
+1001011
+10
+101010
+1
 
-<!---
-rqamo/rqamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-.ñgkoiktjkvfhjfh knf fd sdjdhdjdjdjddjhdjd
-
-d
-ñ{dldlss
-s
-d
-s
-
-
-ss
-s
-ss
 
 
 
